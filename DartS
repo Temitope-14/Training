@@ -1,0 +1,13 @@
+class Car {
+  String brand;
+  int year;
+
+  // Constructor
+  Car(this.brand, this.year);
+
+  // Method (function inside the class)
+  void displayInfo() {
+    print("Car brand: $brand");
+    print("Manufactured year: $year");
+  }
+}
