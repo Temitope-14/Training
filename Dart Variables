@@ -1,0 +1,6 @@
+int age = 20;
+string name = 'Tope';
+double height = 50.90;
+bool isHappy = true;
+string city = 'New York'
+
