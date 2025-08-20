@@ -1,0 +1,7 @@
+int age = 20;
+var name = 'Tope';
+double height = 50.90;
+bool isHappy = true;
+string city = 'New York'
+dynamic anything 'can be anything'
+var name = 'Temi'
